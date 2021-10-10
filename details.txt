@@ -1,0 +1,18 @@
+
+Deploying 'OurTodoApp'
+----------------------
+> transaction hash:    0xa5dc5e2eedc859f695d0efe68f9c79f39f949f13cb896c5810c48535670c50ee
+> Blocks: 0            Seconds: 9
+> contract address:    0x56965196C55454ccd84b3DEa15E5c5CB7eB691CC
+> block number:        11198563
+> block timestamp:     1633836976
+> account:             0x2D7510f8047Fa640dC7f7c829d629e4021846DB1
+> balance:             5.731535125
+> gas used:            738595 (0xb4523)
+> gas price:           25 gwei
+> value sent:          0 ETH
+> total cost:          0.018464875 ETH
+
+> Saving artifacts
+-------------------------------------
+> Total cost:         0.018464875 ETH
