@@ -14,6 +14,6 @@ Full Code in Mater Branch : [Our Todo dapp Code](https://github.com/abhithory/Ou
 
 
 ## Smart Contracts in Solidity
-## Wesite created using React js
+## Website created using React js
 
 ![imagename](https://raw.githubusercontent.com/abhithory/Our_Todo_App/master/public/img/our%20todo%20dapp.PNG)
